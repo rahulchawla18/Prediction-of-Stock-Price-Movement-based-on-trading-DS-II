@@ -2,7 +2,7 @@
 ********************************* TEAM B FILE****************************************
 # Prediction-of-Stock-Price-Movement-based-on-trading-DS-II
 Blue Print of the Model:---
-> ![image](https://drive.google.com/file/d/1iU-ZTeIDwtH-Tng8rAD8HYT_77bMzcZD/view?usp=sharing)
+> ![image](https://drive.google.com/file/d/1iU-ZTeIDwtH-Tng8rAD8HYT_77bMzcZD/view?usp=sharing.jpg)
 The Raw Datasets that have been taken in this model creation were: Dataframe.csv and MSFT.csv
 **********************************************************
 Dataset description:
